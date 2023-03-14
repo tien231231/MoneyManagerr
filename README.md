@@ -5,3 +5,6 @@
 
 # Dashboard
 ![Dashboard](https://user-images.githubusercontent.com/37107401/224984453-d5ccfbaf-4a0c-45a7-9aa9-a3622e8c34cc.png)
+
+# Statistic
+![Statistic](https://user-images.githubusercontent.com/37107401/224987982-9795597f-6461-4c78-b201-2df3b53dba2c.png)
